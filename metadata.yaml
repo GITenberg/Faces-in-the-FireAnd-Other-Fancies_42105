@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26266
     wikipedia: http://en.wikipedia.org/wiki/Frank_W._Boreham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42105#Faces-in-the-FireAnd-Other-Fancies
 gutenberg_issued: '2013-02-16'
 gutenberg_type: Text
 identifiers:
